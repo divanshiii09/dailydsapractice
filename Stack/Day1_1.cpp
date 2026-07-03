@@ -43,7 +43,7 @@ public:
     int gettop(){
         if(top==-1){
             cout<<"Stack is empty"<<endl;
-            return -1;
+            return 0;
         }
         return arr[top];
     }
