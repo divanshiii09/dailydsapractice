@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stack>
 using namespace std;
-
+// this code is to insert an element in a sorted stack using recursion
 void insertSorted(stack<int> &s, int x) {
 
     // Insert if stack is empty or x belongs on top
