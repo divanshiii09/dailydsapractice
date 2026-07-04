@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stack>
 using namespace std;
-
+// this code is to demonstrate the basic operations of stack in C++ STL
 int main(){
     stack<int> s;
     s.push(10);
