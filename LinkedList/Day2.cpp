@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// this code is to implement doubly linked list
 class node
 {
 
