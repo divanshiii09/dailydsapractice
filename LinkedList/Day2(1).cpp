@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// this code is to implement circular linked list
 
 class node{
 public:
