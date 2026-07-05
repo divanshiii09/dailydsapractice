@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// this code is to implement linked list
 class node
 {
 public:
