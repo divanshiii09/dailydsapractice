@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+// this code is to implement two stacks using array
 class Stack{
 public:
 int *arr;
