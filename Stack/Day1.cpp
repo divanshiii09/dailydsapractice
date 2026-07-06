@@ -2,6 +2,7 @@
 #include<stack>
 using namespace std;
 // this code is to demonstrate the basic operations of stack in C++ STL
+// tc and sc is O(1) for all operations
 int main(){
     stack<int> s;
     s.push(10);

@@ -2,6 +2,7 @@
 #include<stack>
 using namespace std;
 // this is code for printing the middle element of stack using recursion
+// tc and sc is O(n)
 void printmid(stack<int> &s,int n){
     if(s.size()==n/2+1){
         cout<<s.top();
