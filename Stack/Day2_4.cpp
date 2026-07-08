@@ -1,6 +1,7 @@
 #include<iostream>
 #include<stack>
 using namespace std;
+// this code is to check if the stack is sorted or not using recursion
 bool issorted(stack<int>&s, int n){
     if(s.size()==1){
         return true;
