@@ -3,7 +3,7 @@
 using namespace std;
 
 //this code is to reverse the stack using another stack with time complexity of O(n) and space complexity of O(n)
-
+//tc and sc is O(n)
 stack<int> reverse(stack<int> &s){
  stack<int> temp;
  while(s.empty()==false){
