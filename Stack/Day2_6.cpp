@@ -2,6 +2,7 @@
 #include<stack>
 using namespace std;
 // with using another stack and not using recursion
+//tc and sc is O(n)
 void reverse(stack<int> &s){
   stack<int> temp;
   while(!s.empty()){
