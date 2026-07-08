@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 // this code is to implement two stacks using array
+// tc and sc is O(1)›
 class Stack{
 public:
 int *arr;
