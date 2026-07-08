@@ -3,6 +3,7 @@
 using namespace std;
 
 // Function to insert an element at the bottom of the stack
+// tc and sc is O(n)
 void insertAtBottom(stack<int> &s, int x) {
     // Base Case
     if (s.empty()) {
